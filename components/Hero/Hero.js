@@ -13,9 +13,9 @@ const Hero = (props) => (
           Nicolas Blasutig
         </SectionTitle>
         <SectionText>
-        I am a Full Stack Web Developer specialized in Front End with React.
+        I am a Full Stack Web Developer specialized in Front End with React. 
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={props.handleClick}>Contact</Button>
       </LeftSection>
     </Section>
   </>
