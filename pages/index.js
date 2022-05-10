@@ -7,6 +7,7 @@ import About from '../components/about/About';
 
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
+import Contact from '../components/contact/Contact';
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
       <Technologies />
       <About />
       <Acomplishments />
+      <Contact />
     </Layout>
   );
 };

@@ -10,7 +10,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Hello! This is <br />
-          Nicolas Blasutig
+          Nico Blasutig
         </SectionTitle>
         <SectionText>
         I am a Full Stack Web Developer specialized in Front End with React. 

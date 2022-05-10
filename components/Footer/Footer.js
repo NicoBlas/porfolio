@@ -13,7 +13,7 @@ const Footer = () => {
           <LinkItem href="tel:+5491153296011">+54 9 11 5329 6011</LinkItem>
         </LinkColumn>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>Send Email</LinkTitle>
           <LinkItem href="mailto:nicolasblasutigdev@gmail.com">
             nicolasblasutigdev@gmail.com
           </LinkItem>
@@ -30,7 +30,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/nicolasblasutig/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/nicolasblasutig/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

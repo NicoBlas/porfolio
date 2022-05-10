@@ -6,11 +6,11 @@ const About = () => {
     <Section id="about">
         <SectionTitle>About Me</SectionTitle>
         <ListParagraph>
-            Hi, i am Nicolas Blasutig, 22 years old developer from Argentina. Passionate for larning something new every day.
+            Hi, i am Nicolas Blasutig, 22 years old developer from Argentina. Passionate for learning something new every day.
             
         </ListParagraph>
         <ListParagraph>
-            I speack English and Spanish.   
+            I speak English and Spanish.   
             
         </ListParagraph>
         <ListParagraph>
@@ -18,11 +18,11 @@ const About = () => {
             
         </ListParagraph>
         <ListParagraph>
-            In my free time i like going to the Gim, knowing new people, reading about technologie and reaserching the Crypto Market.
+            In my free time i like going to the Gym, knowing new people, reading about technology and research on Crypto market.
             
         </ListParagraph>
         <ListParagraph>
-            I am really looking forward to joining a team, add value and learn new things.
+            I am really looking forward to joining a team, add value and learning new things.
             
         </ListParagraph>
         <ListParagraph>
