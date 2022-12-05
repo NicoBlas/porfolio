@@ -18,16 +18,7 @@ const Contact = () => {
                     </ListParagraph>
                 </ListContainer>
              </ListItem>
-
-             <ListItem>
-                <ListContainer>
-                    <ListTitle>WhatSapp</ListTitle>
-                    <ListParagraph>
-                        +54 9 11 5329 6011
-                    </ListParagraph>
-                </ListContainer>
-             </ListItem>
-
+             
              <ListItem>
                 <ListContainer>
                     <ListTitle>Linked In</ListTitle>
